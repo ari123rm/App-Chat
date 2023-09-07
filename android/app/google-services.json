@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809603731102",
+    "project_id": "chatpones",
+    "storage_bucket": "chatpones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809603731102:android:7e723aee246b1a744f758f",
+        "android_client_info": {
+          "package_name": "com.example.japachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809603731102-dhb78fmk6eujdodipcrnef0ssglp9b2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3uEkg-vzNaaj428Pm6ekr3D9Frhqhwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809603731102-dhb78fmk6eujdodipcrnef0ssglp9b2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
